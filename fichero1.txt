@@ -1,2 +1,6 @@
 linea 1 rama1 master
 linea 2 master
+linea 1 rama1
+linea 2 master
+linea 3 ramaA
+//cuidado
